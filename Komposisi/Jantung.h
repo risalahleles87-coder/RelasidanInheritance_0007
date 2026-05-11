@@ -11,3 +11,5 @@ class Jantung {
     ~Jantung() {
         cout << "Jantung dimatikan\n" << endl;
     }
+};
+#endif
