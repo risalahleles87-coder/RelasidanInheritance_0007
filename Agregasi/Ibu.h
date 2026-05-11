@@ -2,3 +2,5 @@
 #define IBU_H
 #include <vector>
 
+class ibu {
+    
