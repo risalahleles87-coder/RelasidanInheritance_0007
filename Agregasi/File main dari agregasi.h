@@ -24,4 +24,6 @@ int main() {
     delete varanak2;
     delete varanak3;
 
-    
+    system("pause");
+    return 0;  
+}
